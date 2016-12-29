@@ -1,0 +1,13 @@
+ADXL335	KEYWORD1
+AXIS	KEYWORD1
+getExtVoltage	KEYWORD2
+setExtVoltage	EYWORD2
+getZeroGVoltage	KEYWORD2
+setZeroGVoltage	KEYWORD2
+getSensitivity	KEYWORD2
+setSensitivity	KEYWORD2
+update	KEYWORD2
+rawValue	KEYWORD2
+getVoltage	KEYWORD2
+getAcceleration	KEYWORD2
+
