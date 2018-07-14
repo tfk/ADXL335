@@ -1,7 +1,7 @@
 ADXL335	KEYWORD1
 AXIS	KEYWORD1
 getExtVoltage	KEYWORD2
-setExtVoltage	EYWORD2
+setExtVoltage	KEYWORD2
 getZeroGVoltage	KEYWORD2
 setZeroGVoltage	KEYWORD2
 getSensitivity	KEYWORD2
